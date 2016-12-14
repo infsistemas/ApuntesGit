@@ -16,4 +16,4 @@ Pasos que he seguido con SmartGit (una utilidad GUI para windows):
 
 6.- Si añadimos más ficheros en local, y modificamos algunos directamente en GitHub, cuando hagamos commit no podremos porque hay diferencias en el repositorio remoto. Para solucionarlas tendremos que hacer un Pull (un checkout para los que venimos de SVN), o un SYNC (para sincronizar los dos extremos), y finalmente podremos hacer un commit cuando los dos repositorios local y remoto estén iguales.
 
-7.- Al mismo, cada vez que hacemos cambios en local, SmartGit los detecta y nos lo muestra en la ventana Files. Haciendo Commit los subimos al servidor remoto.
+7.- Al mismo, cada vez que hacemos cambios en local, SmartGit los detecta y nos lo muestra en la ventana Files. Haciendo Commit actualizamos el repositorio local, y haciendo un "Push to" desde la rama "master" los subimos al servidor remoto.
