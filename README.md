@@ -4,7 +4,7 @@ Ayuda para crear el TOC de forma automática con SublimeText:
 
 https://github.com/naokazuterada/MarkdownTOC
 
-* Clientes de Windows gratuitos
+* [Clientes de Windows gratuitos](#clientes-de-windows-gratuitos)
 	* Pruebas con smartgit
 	* Pruebas con SourceTree
 * Configurar Synology para ser un Servidor Git
