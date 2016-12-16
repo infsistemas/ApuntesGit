@@ -28,6 +28,7 @@ Con este cliente conseguí conectarme a mi repositorio remoto Synology.
 # Configurar Synology para ser un Servidor Git
 
 1.- Instalar Servidor Git
+
 2.- Crear Repositorio desde SSH con el comando:
 
 > mkdir /volumen/git/mirepo
