@@ -1,8 +1,15 @@
+# Índice
+
+Ayuda para crear el TOC de forma automática con SublimeText:
+
+https://github.com/naokazuterada/MarkdownTOC
+
 <!-- MarkdownTOC -->
 
-- [Heading 1]
-  - [Heading 2]
-  - [Heading 3]
+- [Clientes de Windows gratuitos]
+  - [Pruebas con smartgit]
+  - [Pruebas con SourceTree]
+- [Configurar Synology para ser un Servidor Git]
 
 <!-- /MarkdownTOC -->
 
@@ -11,7 +18,7 @@
 * SmartGit
 * SourceTree
 
-# Pruebas con smartgit
+## Pruebas con smartgit
 
 Pasos que he seguido con SmartGit (una utilidad GUI para windows):
 
@@ -29,7 +36,7 @@ Pasos que he seguido con SmartGit (una utilidad GUI para windows):
 
 7.- Al mismo, cada vez que hacemos cambios en local, SmartGit los detecta y nos lo muestra en la ventana Files. Haciendo Commit actualizamos el repositorio local, y haciendo un "Push to" desde la rama "master" los subimos al servidor remoto.
 
-# Pruebas con SourceTree
+## Pruebas con SourceTree
 
 Con este cliente conseguí conectarme a mi repositorio remoto Synology.
 
