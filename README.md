@@ -32,6 +32,7 @@ Con este cliente conseguí conectarme a mi repositorio remoto Synology.
 2.- Crear Repositorio desde SSH con el comando:
 
 > mkdir /volumen/git/mirepo
+
 > git init --bare --shared
 
 3.- Para conectarnos al repositorio, la url de este será:
